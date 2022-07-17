@@ -33,7 +33,7 @@ VSCODE | HTML | CSS
 
 ## Demo
 
-- [Online playable version - click here (Netfly)](https://stupendous-kitsune-48a5bb.netlify.app/)
+
 
 ![image](https://user-images.githubusercontent.com/63982700/179375893-ed4eb4cb-2e06-4db1-9d74-5d12c2b0db94.png)
 
